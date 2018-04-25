@@ -3,5 +3,7 @@
     "sdkVersion": "26.0.0",
     "slug": "my-react-native-app",
     "name": "my-react-native-app"
-  }
+  },
+  "name": "myreactnativeapp",
+  "displayName": "my-react-native-app"
 }
