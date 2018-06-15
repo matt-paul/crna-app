@@ -1,23 +1,23 @@
 dependencies: \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Modules/RCTDevSettings.mm \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Modules/RCTDevSettings.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

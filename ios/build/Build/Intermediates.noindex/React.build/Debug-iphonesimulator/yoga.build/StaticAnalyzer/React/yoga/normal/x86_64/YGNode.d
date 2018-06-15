@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/matt/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.cpp \
-  /Users/matt/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
-  /Users/matt/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/Utils.h
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.cpp \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/react-native/ReactCommon/yoga/yoga/Utils.h

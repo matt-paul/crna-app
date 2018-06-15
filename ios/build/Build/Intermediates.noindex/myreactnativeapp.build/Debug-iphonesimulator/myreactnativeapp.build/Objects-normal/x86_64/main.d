@@ -1,2 +1,3 @@
-dependencies: /Users/matt/Projects/crna-app/ios/myreactnativeapp/main.m \
-  /Users/matt/Projects/crna-app/ios/myreactnativeapp/AppDelegate.h
+dependencies: \
+  /Users/mattpaul/Projects/crna-app/ios/myreactnativeapp/main.m \
+  /Users/mattpaul/Projects/crna-app/ios/myreactnativeapp/AppDelegate.h

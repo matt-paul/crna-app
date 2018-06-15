@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/matt/Projects/crna-app/node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes/AppCenterReactNativeCrashesUtils.m \
-  /Users/matt/Projects/crna-app/node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes/AppCenterReactNativeCrashesUtils.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes/AppCenterReactNativeCrashesUtils.m \
+  /Users/mattpaul/Projects/crna-app/node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes/AppCenterReactNativeCrashesUtils.h \
   ../../../ios/Pods/AppCenter/AppCenter-SDK-Apple/iOS/AppCenterCrashes.framework/Modules/module.modulemap \
   ../../../ios/Pods/AppCenter/AppCenter-SDK-Apple/iOS/AppCenterCrashes.framework/Headers/MSWrapperCrashesHelper.h \
   ../../../ios/Pods/AppCenter/AppCenter-SDK-Apple/iOS/AppCenterCrashes.framework/Headers/MSErrorAttachmentLog+Utility.h \

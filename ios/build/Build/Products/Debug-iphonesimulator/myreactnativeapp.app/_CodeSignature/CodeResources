@@ -10,35 +10,35 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		OZ2EAXOEVddCvZxhjFnD9ZCEasQ=
+		51DkN7h+zsAH4adR1o6IeEfJE/w=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
-		ooz0sIAaLKBGoFU5iKq8DR11NmY=
+		8CN5cCzwKl0+7ieNPMN/SawZQA8=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
 		<data>
-		R/knOPjsjrJNiVtUa2S4kYE749M=
+		Cwsl4MoHt6dTvyYXRy5C2x7Kd88=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
 		<data>
-		qcVgsOCxIzxwcNXLWXgRrNjnuT8=
+		UU+vWjYvpE8lKAxV1lE2tUbIZA0=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
 		<data>
-		K7jOt4uC+lqy/StneXlQVk21axY=
+		znuKt4UiTOJWwzrlgwaYX94o/a4=
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
-		CYfyvPIGUR84QvCD7SuNDvG6Bxc=
+		uPxPInP5h9+ERgCm8NCXpuuMEmg=
 		</data>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<data>
-		M3EBma1BpAxt7iGIjYcrm9BnNOc=
+		aHoR6mqqp0XWLqiw49+MRuFNQLk=
 		</data>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<data>
-		5EUn1qFgVTwSkfSLCubcLwgrx0c=
+		2JoYDV6DTsckEmF+l3Ruo1S1Iqk=
 		</data>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -51,11 +51,11 @@
 		</dict>
 		<key>Frameworks/XCTest.framework/version.plist</key>
 		<data>
-		Etc/8BPenX54rv1uBx24u4bnqTg=
+		DmGu9k7yBOLSfwtyNbn3zYir630=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		q+FYxrgwub1CGfE/qAVO4BuxMls=
+		TYUsIt54A9HilBpPipc5AYPsbPc=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -67,19 +67,19 @@
 		</data>
 		<key>PlugIns/myreactnativeappTests.xctest.dSYM/Contents/Resources/DWARF/myreactnativeappTests</key>
 		<data>
-		EhVth6RdUwnQzzuf13oBPciznqY=
+		axpJHb4ttw6ysQssnEkyd30k02c=
 		</data>
 		<key>PlugIns/myreactnativeappTests.xctest/Info.plist</key>
 		<data>
-		pGbzQAlxWVvppKK25T8yr3Htkb4=
+		o/Rj1hcY+JH6Kn9W8zPO2OrMrZ8=
 		</data>
 		<key>PlugIns/myreactnativeappTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		xAFV/llrYfixKkcslFLh6HmTQ1w=
+		eA3O1qA3xfKyTi0mMpWK5XB2d5U=
 		</data>
 		<key>PlugIns/myreactnativeappTests.xctest/myreactnativeappTests</key>
 		<data>
-		zzFA7bPpDLWkGOczrSNdmKtVv2Y=
+		sPpjO+9vZf0/mkEkZhvu9qKkv9Y=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -99,88 +99,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OZ2EAXOEVddCvZxhjFnD9ZCEasQ=
+			51DkN7h+zsAH4adR1o6IeEfJE/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			83XJFotj896E599wSRhP740lrBmR8sDKrCic+3Xzerk=
+			6dcm7E3PMQTfiQxtxVeZZSL0lMsh4ONRGAKvFOF8ERg=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ooz0sIAaLKBGoFU5iKq8DR11NmY=
+			8CN5cCzwKl0+7ieNPMN/SawZQA8=
 			</data>
 			<key>hash2</key>
 			<data>
-			QTZkTlnemyTcrFMb3v3GdQcfmpRodaOjtevd5TjxiiY=
+			/R1Uy1RZ7ljX2V8ZHMhD4g8ieWHns9sj34YDK2McvfY=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			R/knOPjsjrJNiVtUa2S4kYE749M=
+			Cwsl4MoHt6dTvyYXRy5C2x7Kd88=
 			</data>
 			<key>hash2</key>
 			<data>
-			wLDjbULmM78l0rN5jh2/yPax234qVZL29OQBQmdYmOU=
+			IvG0kD54lYvEZzfjVmXtrtBdydTUy1uFZkZXUddfTzY=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qcVgsOCxIzxwcNXLWXgRrNjnuT8=
+			UU+vWjYvpE8lKAxV1lE2tUbIZA0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZARlo4LD/z4nYhaCEocjb6nPjuZDCrLsQzn0n4GVr3s=
+			Ja3vToXIdN/BmsoAh4U4btDVl5lKbzndKf99CyxV6K4=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K7jOt4uC+lqy/StneXlQVk21axY=
+			znuKt4UiTOJWwzrlgwaYX94o/a4=
 			</data>
 			<key>hash2</key>
 			<data>
-			VzM0aDQjkmLy+IyPasdn9DeGkOOTuNMbKUMz+3efAaU=
+			napzzKlhgK6Qoqz8QO+9TkyuIsW5V+s6GmClALe2lT4=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CYfyvPIGUR84QvCD7SuNDvG6Bxc=
+			uPxPInP5h9+ERgCm8NCXpuuMEmg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xsgm2dBly62EneiB04ryti89smi53XIXAOtYLFyW4ZE=
+			N77/gSJpnPT4ryPaR4IJ55aYyiiMCKjlq79qrCmGxU8=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M3EBma1BpAxt7iGIjYcrm9BnNOc=
+			aHoR6mqqp0XWLqiw49+MRuFNQLk=
 			</data>
 			<key>hash2</key>
 			<data>
-			qAlGOWS6ltLA/WrYd4Rz6EHPivttCiNu41NTW7ulBAI=
+			unqlGEn5cq6B36PWWq/mAoeeub7L9yZ3vWK7mP9EscQ=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5EUn1qFgVTwSkfSLCubcLwgrx0c=
+			2JoYDV6DTsckEmF+l3Ruo1S1Iqk=
 			</data>
 			<key>hash2</key>
 			<data>
-			55ZdMLgNGz7Q67XNAv/M4f4uXy0R2d5+tlHRhlkL8t4=
+			OXS9XX1oATlfFoPHZbc7OGt7HUXfXzNrCz28TkkBo/g=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
@@ -200,11 +200,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Etc/8BPenX54rv1uBx24u4bnqTg=
+			DmGu9k7yBOLSfwtyNbn3zYir630=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jh5i9giCFfo5GhN25CjMKdDJ6Kdlz/p4L95RITR+WeA=
+			2hnwNPgdaewT28DbTqe0Gpaccdc2akBF8IjnGtISc58=
 			</data>
 		</dict>
 		<key>PlugIns/myreactnativeappTests.xctest.dSYM/Contents/Info.plist</key>
@@ -222,44 +222,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EhVth6RdUwnQzzuf13oBPciznqY=
+			axpJHb4ttw6ysQssnEkyd30k02c=
 			</data>
 			<key>hash2</key>
 			<data>
-			q7aB8PTEYEuWKcGHMOnQCVlwouu5TprQ++AMoWXOWSg=
+			t/qDCeBnQci4DVWZ3YpEChpRCiAG+hRBJBTQ9S+ow1U=
 			</data>
 		</dict>
 		<key>PlugIns/myreactnativeappTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pGbzQAlxWVvppKK25T8yr3Htkb4=
+			o/Rj1hcY+JH6Kn9W8zPO2OrMrZ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			TDhwYtmf0r1K/lmW+RUhDNyE5He/TwGY7rGXmuiEfb0=
+			uICM85MRUGcPfoz/KsQJmrkU+MvPbfObbH3Eh+gY9OQ=
 			</data>
 		</dict>
 		<key>PlugIns/myreactnativeappTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xAFV/llrYfixKkcslFLh6HmTQ1w=
+			eA3O1qA3xfKyTi0mMpWK5XB2d5U=
 			</data>
 			<key>hash2</key>
 			<data>
-			quXijUNy0ET9UcR4U7PFJcCeiLQRtTxY2MgphpNGriQ=
+			mhpymT3JcJcd5qyeQDl4/yD2G/a5kWoDYxdCj32vXDs=
 			</data>
 		</dict>
 		<key>PlugIns/myreactnativeappTests.xctest/myreactnativeappTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zzFA7bPpDLWkGOczrSNdmKtVv2Y=
+			sPpjO+9vZf0/mkEkZhvu9qKkv9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			m6dST929m4NZ8Yc3AXR82JMWA+yc6EvNCh2QAuc4jak=
+			hWI/URO6I/CMAQM2pX+E8m8X+ObA7pFDoQoRRBAoaQw=
 			</data>
 		</dict>
 	</dict>

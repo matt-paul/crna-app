@@ -1,26 +1,26 @@
 dependencies: \
-  /Users/matt/Projects/crna-app/node_modules/appcenter/ios/AppCenterReactNative/AppCenterReactNative.m \
-  /Users/matt/Projects/crna-app/node_modules/appcenter/ios/AppCenterReactNative/AppCenterReactNative.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/matt/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/mattpaul/Projects/crna-app/node_modules/appcenter/ios/AppCenterReactNative/AppCenterReactNative.m \
+  /Users/mattpaul/Projects/crna-app/node_modules/appcenter/ios/AppCenterReactNative/AppCenterReactNative.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/mattpaul/Projects/crna-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   ../../../ios/Pods/AppCenter/AppCenter-SDK-Apple/iOS/AppCenter.framework/Modules/module.modulemap \
   ../../../ios/Pods/AppCenter/AppCenter-SDK-Apple/iOS/AppCenter.framework/Headers/MSCustomProperties.h \
   ../../../ios/Pods/AppCenter/AppCenter-SDK-Apple/iOS/AppCenter.framework/Headers/MSWrapperLogger.h \
@@ -41,5 +41,5 @@ dependencies: \
   ../../../ios/Pods/AppCenter/AppCenter-SDK-Apple/iOS/AppCenter.framework/Headers/MSAppCenter.h \
   ../../../ios/Pods/AppCenter/AppCenter-SDK-Apple/iOS/AppCenter.framework/Headers/AppCenter.h \
   ../../../ios/Pods/AppCenterReactNativeShared/AppCenterReactNativeShared/AppCenterReactNativeShared.framework/Modules/module.modulemap \
-  /Users/matt/Projects/crna-app/node_modules/appcenter-crashes/ios/../../../ios/Pods/AppCenter/AppCenter-SDK-Apple/iOS/AppCenter.framework/Modules/module.modulemap \
+  /Users/mattpaul/Projects/crna-app/node_modules/appcenter-analytics/ios/../../../ios/Pods/AppCenter/AppCenter-SDK-Apple/iOS/AppCenter.framework/Modules/module.modulemap \
   ../../../ios/Pods/AppCenterReactNativeShared/AppCenterReactNativeShared/AppCenterReactNativeShared.framework/Headers/AppCenterReactNativeShared.h
